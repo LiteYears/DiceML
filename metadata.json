@@ -1,0 +1,6 @@
+{
+  "name": "DiceML Predictor",
+  "description": "2-dice Over/7/Under betting simulator and historical probability machine learning predictor starting from faces 3 and 2.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

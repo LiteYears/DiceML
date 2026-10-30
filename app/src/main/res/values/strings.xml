@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">DiceML Predictor</string>
+    <string name="header_subtitle">Historical Markov &amp; Bayesian 2-Dice Engine</string>
+    <string name="nav_arena">Game Table</string>
+    <string name="nav_ml_engine">ML Predictor</string>
+    <string name="nav_history">Roll History</string>
+    <string name="initial_state_badge">Start State: Faces 3 &amp; 2 (Sum 5)</string>
+    <string name="bankroll_label">Bankroll</string>
+    <string name="initial_stake_label">Initial Stake</string>
+    <string name="current_stake_label">Active Bet Stake (1–30 EUR)</string>
+    <string name="bet_under_title">UNDER (2–6)</string>
+    <string name="bet_seven_title">EXACT 7</string>
+    <string name="bet_over_title">OVER (8–12)</string>
+    <string name="multiplier_2_3">2.3× Payout</string>
+    <string name="multiplier_5_8">5.8× Payout</string>
+    <string name="throw_dice_btn">THROW DICE</string>
+    <string name="reset_to_3_2_btn">Reset Dice to 3 &amp; 2</string>
+    <string name="configure_initial_stake">Set Pre-Game Initial Stake</string>
+    <string name="ml_recommendation_title">ML Probability Forecast</string>
+    <string name="ml_expected_value">Expected Value (EV)</string>
+    <string name="history_empty_title">No Rolls Recorded Yet</string>
+    <string name="history_empty_subtitle">Dice are positioned at initial faces 3 and 2. Select Under (2–6), 7, or Over (8–12) and throw the dice to train the ML model.</string>
+    <string name="manual_log_title">Record External Real-Dice Roll</string>
+</resources>
